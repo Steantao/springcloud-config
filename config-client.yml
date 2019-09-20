@@ -15,7 +15,7 @@ eureka:
       defaultZone: http://eureka01.com:1001/eureka/
 ---
 server:
-  port: 6001
+  port: 6002
 spring:
   profiles: test  #测试环境
   application:
